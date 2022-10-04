@@ -1,0 +1,14 @@
+body {
+    max-width: min(80ch, 100vw - 1rem);
+    margin-inline: auto;
+    background-color: rgb(0, 255, 13);
+    font-size: 22px;
+}
+
+nav > ul {
+    font-family: 'Bungee Spice', cursive;
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+}
