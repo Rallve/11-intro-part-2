@@ -7,7 +7,8 @@ title: Home
 
 ![Foul image](/images/copium.png)
 
-{% image "/images/copium.png", "Evil", "700px", "50px" %}
+
+{% image "./src/images/red_panda.jpg", "photo of a red panda", "(min-width: 30em) 50vw, 100vw" %}
 
 Världens roligaste hellow sida!
 
